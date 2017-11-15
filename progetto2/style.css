@@ -1,0 +1,10 @@
+div {
+	width: 300px;
+	height: 150px;
+	background-color: #ff6633;
+	overflow: auto;
+	border-top: 6px dotted black;
+	border-bottom: 6px dashed black;
+	border-left: 6px double black;
+	border-right: 6px ridge black;
+} 

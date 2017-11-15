@@ -1,0 +1,21 @@
+aside {
+	float: left;
+	width: 19%;
+} 
+section {
+	float: right;
+	width: 70%;
+}
+
+footer {
+	clear: both; !important
+	display: block;
+}
+
+nav {
+	display: block;
+}
+
+nav li {
+	display: inline;
+}
